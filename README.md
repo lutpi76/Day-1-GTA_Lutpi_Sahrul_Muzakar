@@ -1,5 +1,5 @@
 # Day-1-GTA_Lutpi_Sahrul_Muzakar
-Tugas Workshop dari kegiatan Expektik '26
+# Tugas Workshop dari kegiatan Expektik '26
 
 Halo, perkenalkan namaku Lutpi Sahrul Muzakar dari kelompok 2.
 
